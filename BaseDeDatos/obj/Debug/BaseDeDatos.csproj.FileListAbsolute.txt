@@ -1,0 +1,10 @@
+C:\Users\Visual_Dom\Desktop\C# Developer\20170903\Practicando3\BaseDeDatos\bin\Debug\BaseDeDatos.dll.config
+C:\Users\Visual_Dom\Desktop\C# Developer\20170903\Practicando3\BaseDeDatos\bin\Debug\BaseDeDatos.dll
+C:\Users\Visual_Dom\Desktop\C# Developer\20170903\Practicando3\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\Visual_Dom\Desktop\C# Developer\20170903\Practicando3\BaseDeDatos\bin\Debug\EntityFramework.dll
+C:\Users\Visual_Dom\Desktop\C# Developer\20170903\Practicando3\BaseDeDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Visual_Dom\Desktop\C# Developer\20170903\Practicando3\BaseDeDatos\bin\Debug\EntityFramework.xml
+C:\Users\Visual_Dom\Desktop\C# Developer\20170903\Practicando3\BaseDeDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Visual_Dom\Desktop\C# Developer\20170903\Practicando3\BaseDeDatos\obj\Debug\BaseDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\Visual_Dom\Desktop\C# Developer\20170903\Practicando3\BaseDeDatos\obj\Debug\BaseDeDatos.dll
+C:\Users\Visual_Dom\Desktop\C# Developer\20170903\Practicando3\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
