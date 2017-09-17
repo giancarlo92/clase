@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace BaseDeDatos.Modelos
 {
-    public class Usuario : BaseEntity
+    public class AplicacionesMoviles : BaseEntity
     {
         public string Nombre { get; set; }
-        public string Apellidos { get; set; }
-        public int Edad { get; set; }
-        public string Dni { get; set; }
         public ICollection<Telefono> Telefonos { get; set; }
-        public Usuario() : base()
+        public AplicacionesMoviles() : base()
         {
             this.Telefonos = new HashSet<Telefono>();
         }

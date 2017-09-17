@@ -8,3 +8,6 @@ C:\Users\Visual_Dom\Desktop\C# Developer\20170903\Practicando3\BaseDeDatos\bin\D
 C:\Users\Visual_Dom\Desktop\C# Developer\20170903\Practicando3\BaseDeDatos\obj\Debug\BaseDeDatos.csprojResolveAssemblyReference.cache
 C:\Users\Visual_Dom\Desktop\C# Developer\20170903\Practicando3\BaseDeDatos\obj\Debug\BaseDeDatos.dll
 C:\Users\Visual_Dom\Desktop\C# Developer\20170903\Practicando3\BaseDeDatos\obj\Debug\BaseDeDatos.pdb
+C:\Users\Visual_Dom\Desktop\C# Developer\20170903\Practicando3\BaseDeDatos\obj\Debug\BaseDeDatos.Migrations.InitialCreate.resources
+C:\Users\Visual_Dom\Desktop\C# Developer\20170903\Practicando3\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.GenerateResource.Cache
+C:\Users\Visual_Dom\Desktop\C# Developer\20170903\Practicando3\BaseDeDatos\obj\Debug\BaseDeDatos.Migrations.RelacionMM.resources
